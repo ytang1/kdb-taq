@@ -18,3 +18,5 @@ getask:{[s] prices[s]+getmovement[s]} /generate ask price
  };
 /trigger timer every 100ms
 \t 100
+
+/for merging
